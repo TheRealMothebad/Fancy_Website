@@ -1,0 +1,11 @@
+body {
+      background-image: url(reverse_doge_gif.webp);
+      #change this to use a uploaded picture when in github so it stays around FOREVER
+    }
+    .gray {
+      color: rgb(200, 200, 200);
+    }
+    .highlight {
+      color: rgb(250, 30, 30);
+      background-color: rgb(100, 250, 100);
+    }
